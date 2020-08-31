@@ -1,0 +1,20 @@
+export default {
+    results: [],
+    themes:[],
+    countlikes:[],
+    post:[],
+    status:'',
+    getcomment:[],
+    deletecomment:[],
+    getlikepost:[],
+    getlike:[],
+    checklike:[],
+    unlike:'',
+    hot:[],
+    dataright:[],
+    getpostuser:[],
+    status:'',
+    datapostuser:[],
+    getdataadmin:[],
+
+}

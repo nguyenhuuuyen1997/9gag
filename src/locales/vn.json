@@ -1,0 +1,12 @@
+{
+    "message": "Xin Chao",
+    "header":{
+        "login": "Đăng nhập",
+        "SignUp": "Đăng ký",
+        "Uploads": "Tải lên"
+    },
+    "sidebar":{
+        "hot": "Nổi bật",
+        "trending": "Thịnh Hành"
+    }
+  }
